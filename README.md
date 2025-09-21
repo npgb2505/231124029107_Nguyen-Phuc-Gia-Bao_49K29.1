@@ -61,10 +61,11 @@ Dự án bao gồm 12 biểu đồ, mỗi biểu đồ trả lời một câu h�
 
 ## 📊 Nguồn dữ liệu
 
-Dữ liệu được sử dụng trong dự án này là một tập tin `data.js` (~52MB) được cung cấp trong khuôn khổ môn học.
+Dữ liệu được sử dụng trong dự án này là một tập tin `data.csv` (~52MB) được cung cấp trong khuôn khổ môn học.
 
 ## ✍️ Tác giả
 
 - **Họ và tên:** [Nguyễn Phúc Gia Bảo]
 - **Mã số sinh viên:** [231124029107]
+
 - **Lớp:** [49K29.1]
