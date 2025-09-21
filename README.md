@@ -6,9 +6,9 @@
 
 Trang web đã được triển khai và có thể xem trực tiếp tại đây:
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Xem%20Tr%E1%BB%B1c%20T%E1%BA%BFp-brightgreen)](https://npgb2505.github.io/d3-dashboard-report/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Xem%20Tr%E1%BB%B1c%20T%E1%BA%BFp-brightgreen)](https://npgb2505.github.io/231124029107_Nguyen-Phuc-Gia-Bao_49K29.1/)
 
-**Link:** [https://npgb2505.github.io/d3-dashboard-report/](https://npgb2505.github.io/d3-dashboard-report/)
+**Link:** [https://npgb2505.github.io/d3-dashboard-report/](https://npgb2505.github.io/231124029107_Nguyen-Phuc-Gia-Bao_49K29.1/)
 
 ## 📈 Các Biểu đồ Trực quan hóa
 
@@ -69,3 +69,4 @@ Dữ liệu được sử dụng trong dự án này là một tập tin `data.c
 - **Mã số sinh viên:** [231124029107]
 
 - **Lớp:** [49K29.1]
+
