@@ -8,7 +8,7 @@ Trang web đã được triển khai và có thể xem trực tiếp tại đây
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Xem%20Tr%E1%BB%B1c%20T%E1%BA%BFp-brightgreen)](https://npgb2505.github.io/231124029107_Nguyen-Phuc-Gia-Bao_49K29.1/)
 
-**Link:** [https://npgb2505.github.io/d3-dashboard-report/](https://npgb2505.github.io/231124029107_Nguyen-Phuc-Gia-Bao_49K29.1/)
+**Link:** [https://npgb2505.github.io/231124029107_Nguyen-Phuc-Gia-Bao_49K29.1/](https://npgb2505.github.io/231124029107_Nguyen-Phuc-Gia-Bao_49K29.1/)
 
 ## 📈 Các Biểu đồ Trực quan hóa
 
@@ -42,21 +42,16 @@ Dự án bao gồm 12 biểu đồ, mỗi biểu đồ trả lời một câu h�
 
 1.  **Clone repository về máy:**
     ```bash
-    git clone https://github.com/npgb2505/d3-dashboard-report.git
+    git clone https://npgb2505.github.io/231124029107_Nguyen-Phuc-Gia-Bao_49K29.1.git
     ```
 
 2.  **Di chuyển vào thư mục dự án:**
     ```bash
-    cd d3-dashboard-report
-    ```
-    
-3.  **Cài đặt Git LFS để tải file dữ liệu lớn (nếu cần):**
-    ```bash
-    git lfs install
-    git lfs pull
+    cd 231124029107_Nguyen-Phuc-Gia-Bao_49K29.1
     ```
 
-4.  **Mở tập tin `index.html` bằng trình duyệt của bạn.**
+
+3.  **Mở tập tin `index.html` bằng trình duyệt của bạn.**
     > **Lưu ý:** Để có trải nghiệm tốt nhất và tránh các vấn đề liên quan đến CORS, bạn nên sử dụng một server ảo. Tiện ích `Live Server` trên Visual Studio Code là một lựa chọn tuyệt vời.
 
 ## 📊 Nguồn dữ liệu
@@ -67,6 +62,6 @@ Dữ liệu được sử dụng trong dự án này là một tập tin `data.c
 
 - **Họ và tên:** [Nguyễn Phúc Gia Bảo]
 - **Mã số sinh viên:** [231124029107]
-
 - **Lớp:** [49K29.1]
+
 
